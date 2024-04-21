@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item id="1">
+		<item>Bollo</item>
+		<type value="comida" />
+		<rarity value="5" />
+	</item>
+	<item id="2">
+		<item>Guitarra flamenca</item>
+		<type>instrumento</type>
+		<rarity value="5" />
+	</item>
+	<item id="3">
+		<item>Piti</item>
+		<type>Droga</type>
+		<rarity value="10" />
+	</item>
+	<item id="4">
+		<item>Portatil</item>
+		<type>Tecnologia</type>
+		<rairty value="30" />
+</items>
+
+
+
+
